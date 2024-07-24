@@ -35,10 +35,6 @@ I'm a passionate Data Science and Big Data enthusiast, currently pursuing my Mas
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAGANGURU17&show_icons=true&theme=radical)
-
 ## 🌱 I'm currently learning
 - Advanced Machine Learning techniques
 - Cloud-based Big Data solutions
