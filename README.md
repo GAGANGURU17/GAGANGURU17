@@ -9,24 +9,19 @@ I'm a passionate Data Science and Big Data enthusiast, currently pursuing my Mas
 ## 💼 Professional Experience
 **Big Data Developer** at IQVIA (Sept 2021 - Feb 2023)
 - Developed high-performance scripts in HQL, Spark, and Scala
-- Improved data query latency by 45%
-- Ensured 98% data accuracy in production environments
+- Improved data query latency
+- Ensured data accuracy in production environments
 
 **Software Engineer Trainee** at Revature (June 2021 - Sept 2021)
 - Implemented Apache Hadoop, Sqoop, Yarn, Spark, Hive/HBase, and Kafka
-- Reduced data processing time by 35%
+- Reduced data processing time
 
-## 🚀 Projects
+## 🚀 Research paper
 
 ### Image Processing on Lung Cancer Prediction
 - Developed CNN models for lung cancer classification
 - Achieved 99% accuracy on 10,000 medical images
 - Tech stack: LSTM, Python, CNN, TensorFlow/Keras, OpenCV, Pandas, NumPy
-
-### Weather Forecasting using Machine Learning and Deep Learning
-- Integrated ML and DL models for weather prediction
-- Improved predictive accuracy by 38%
-- Tech stack: Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras
 
 ## 🛠 Technical Skills
 
