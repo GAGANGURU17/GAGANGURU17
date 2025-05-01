@@ -35,6 +35,9 @@ I'm a passionate Data Science and Big Data enthusiast, currently pursuing my Mas
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10274F?style=flat-square&logo=scikit-learn&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-1C1C1C?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+
 
 ## 🌱 I'm currently learning
 - Advanced Machine Learning techniques
